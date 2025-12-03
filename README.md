@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm <a href="https://vk.com/" target="_blank"> Ivan</a> 
+<h1 align="center">Hi there I'm <a href="https://www.linkedin.com/in/ivan-tikhonov-30281a33b/" target="_blank"> Ivan</a> 
 <h3 align="left">Student YGK (Graduated)</a>
   <h3 align="left">Now I'm study at Griffith College!(Ireland,Dublin)
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
